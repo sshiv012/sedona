@@ -1072,7 +1072,7 @@ SedonaPyDeck exposes APIs to create interactive map visualizations using [pydeck
 !!!Note
 	To use SedonaPyDeck, install sedona with the `pydeck-map` extra:
 	```
-	pip install sedona[pydeck-map]
+	pip install apache-sedona[pydeck-map]
 	```
 
 The following tutorial showcases the various maps that can be created using SedonaPyDeck, the datasets used to create these maps are publicly available.
@@ -1149,7 +1149,7 @@ SedonaKepler exposes APIs to create interactive and customizable map visualizati
 !!!Note
 	To use SedonaKepler, install sedona with the `kepler-map` extra:
 	```
-	pip install sedona[kepler-map]
+	pip install apache-sedona[kepler-map]
 	```
 
 This tutorial showcases how simple it is to instantly visualize geospatial data using SedonaKepler.
