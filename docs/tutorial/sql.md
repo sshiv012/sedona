@@ -808,7 +808,6 @@ You can also load data from raster tables in the geopackage file. To load raster
 
 Since v1.7.1, Sedona supports loading OSM PBF file format as a DataFrame.
 
-
 === "Scala/Java"
 
 	```scala
@@ -886,6 +885,7 @@ and for way
 |4308969| way|    NULL|{cycleway:both ->...|[9526831176, 1218...|     NULL|     NULL|
 +-------+----+--------+--------------------+--------------------+---------+---------+
 ```
+
 and for relation
 
 ```
