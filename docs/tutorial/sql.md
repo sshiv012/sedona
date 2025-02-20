@@ -805,6 +805,7 @@ You can also load data from raster tables in the geopackage file. To load raster
 ```
 
 ## Load from OSM PBF
+
 Since v1.7.1, Sedona supports loading OSM PBF file format as a DataFrame.
 
 
